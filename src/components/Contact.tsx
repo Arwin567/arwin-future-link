@@ -47,8 +47,8 @@ const Contact = () => {
     {
       icon: Phone,
       title: 'Phone',
-      value: '(123) 456-7890',
-      href: 'tel:+11234567890',
+      value: '+91 9490937683',
+      href: 'tel:+911234567890',
     },
     {
       icon: MapPin,
