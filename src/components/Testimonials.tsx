@@ -17,27 +17,29 @@ const Testimonials = () => {
   const testimonials: Testimonial[] = [
     {
       id: 1,
-      name: "Emma Chen",
-      role: "Data Scientist",
-      university: "Stanford University",
+      name: "Indu Chintapalli",
+      role: "Data Analyst",
+      university: "University of Central Missourie",
       quote: "Arwin AI transformed my job search completely. Their AI resume optimization helped me land interviews at top tech companies, and I secured my dream role at Google.",
-      image: "https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=256&q=80"
+      image: "https://images.unsplash.com/photo-194790108377-be9c29b29330?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=256&q=80"
+
     },
-    {
+
+      {
       id: 2,
-      name: "Michael Rodriguez",
-      role: "ML Engineer",
+      name: "Harsha Vardhan Reddy",
+      role: "Senior Cloud Engineer",
       university: "MIT",
       quote: "The interview simulator was incredibly realistic and helped me prepare for tough technical questions. The personalized feedback improved my confidence tremendously.",
-      image: "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=256&q=80"
+      image: "https://images.unsplash.com/photo-194790108377-be9c29b29330?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=256&q=80"
     },
     {
       id: 3,
-      name: "Aisha Johnson",
+      name: "Chandra Vardhan Reddy",
       role: "Product Manager",
       university: "UC Berkeley",
       quote: "The personal branding strategy Arwin AI developed for me helped me stand out in a crowded market. Within weeks, I received multiple offers from top companies.",
-      image: "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=256&q=80"
+      image: "https://images.unsplash.com/photo-194790108377-be9c29b29330?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=256&q=80"
     },
   ];
 
