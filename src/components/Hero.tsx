@@ -61,7 +61,7 @@ const Hero = () => {
           className="max-w-2xl mx-auto text-lg opacity-80 mb-10 animate-fade-in"
           style={{ animationDelay: '0.2s' }}
         >
-          Arwin AI crafts intelligent solutions that help US master students showcase their potential and connect with their dream opportunities.
+          Arwin AI crafts intelligent AI solutions for businesses to showcase their potential and connect with their dream opportunities.
         </p>
         
         <div className="flex flex-col sm:flex-row gap-4 justify-center animate-fade-in" style={{ animationDelay: '0.3s' }}>

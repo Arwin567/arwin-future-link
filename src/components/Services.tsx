@@ -74,7 +74,7 @@ const Services = () => {
             Advanced AI Solutions for <span className="text-gradient">Career Success</span>
           </h2>
           <p className="max-w-xl mx-auto text-muted-foreground animate-fade-in" style={{ animationDelay: '0.2s' }}>
-            Our cutting-edge AI technologies are designed to help master students navigate the complex job market and secure their ideal positions.
+            Our cutting-edge AI technologies are designed Businesses.
           </p>
         </div>
         
